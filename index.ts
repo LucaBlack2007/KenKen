@@ -7,6 +7,7 @@ enum Operation {
 }
 
 // super secret note
+const pp = 10;
 
 class Section {
     operation: Operation;
