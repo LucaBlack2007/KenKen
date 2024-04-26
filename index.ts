@@ -6,6 +6,8 @@ enum Operation {
     EQUAL
 }
 
+// super secret note
+
 class Section {
     operation: Operation;
     number: number;
