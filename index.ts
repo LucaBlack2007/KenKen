@@ -6,9 +6,6 @@ enum Operation {
     EQUAL
 }
 
-// super secret note
-const pp = 10;
-
 class Section {
     operation: Operation;
     number: number;
